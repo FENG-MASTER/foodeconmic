@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "foodeconomic:blocks/food_god_statue_block",
+    "up": "foodeconomic:blocks/food_god_statue_block",
+    "north": "foodeconomic:blocks/food_god_statue_block",
+    "south": "foodeconomic:blocks/food_god_statue_block",
+    "west": "foodeconomic:blocks/food_god_statue_block",
+    "east": "foodeconomic:blocks/food_god_statue_block"
+  }
+}

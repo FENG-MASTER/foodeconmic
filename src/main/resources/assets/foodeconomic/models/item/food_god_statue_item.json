@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "foodeconomic:item/food_god_statue_item"
+  }
+}
